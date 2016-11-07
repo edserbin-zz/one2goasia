@@ -1,0 +1,3 @@
+<test_data>
+	<command_executer>name://name:password@hub.browserstack.com:80/wd/hub</command_executer>
+</test_data>
